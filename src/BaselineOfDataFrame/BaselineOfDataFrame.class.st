@@ -20,7 +20,7 @@ BaselineOfDataFrame >> baseline: spec [
 			with: [ spec repository: 'github://pharo-ai/normalization/src' ].
 		spec
 			baseline: 'RandomPartitioner'
-			with: [ spec repository: 'github://pharo-ai/RandomPartitioner/src' ].
+			with: [ spec repository: 'github://pharo-ai/random-partitioner/src' ].
 				
 		"Packages"
 		spec 
